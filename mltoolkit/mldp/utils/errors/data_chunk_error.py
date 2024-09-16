@@ -1,2 +1,0 @@
-class DataChunkError(Exception):
-    pass
