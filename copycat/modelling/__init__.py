@@ -1,1 +1,0 @@
-from .copycat import CopyCat
